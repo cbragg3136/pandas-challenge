@@ -8,3 +8,4 @@ The game is free-to-play, but players are encouraged to purchase optional items 
 
 3) Items 92	and 178 (Final Critic and Oathbreaker, Last Hope of the Breaking Storm, respectively) are the most popular and profitable items purchased. Combined, these two items account for 5% of the total value of purchases and 3% of all purchases.
 
+
